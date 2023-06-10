@@ -1,0 +1,38 @@
+p {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.new {
+  color: rgb(245, 99, 0);
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.product {
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 45px;
+  margin-bottom: 15px;
+}
+
+.price {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.button {
+  background-color: rgb(0, 113, 227);
+  color: white;
+  padding: 7px 15px;
+  border-radius: 30px;
+  font-weight: bold;
+  cursor: pointer;
+}
