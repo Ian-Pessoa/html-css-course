@@ -1,0 +1,26 @@
+img {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 30px;
+  vertical-align: middle;
+}
+
+input {
+  font-family: Arial;
+  border: none;
+  color: rgb(100, 100, 100);
+  vertical-align: middle;
+}
+
+button {
+  color: white;
+  font-size: 15px;
+  background-color: rgb(29, 155, 240);
+  border: none;
+  font-weight: bold;
+  vertical-align: middle;
+  padding: 10px 15px;
+  border-radius: 25px;
+  cursor: pointer;
+}
