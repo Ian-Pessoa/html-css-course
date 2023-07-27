@@ -1,0 +1,51 @@
+body {
+  height: 3000px;
+}
+
+.container {
+  position: relative;
+  display: inline-block;
+}
+
+.shirt-photo {
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+}
+
+.discount {
+  font-family: Arial;
+  background-color: black;
+  color: white;
+  padding: 10px 15px;
+
+  position: absolute;
+  top: 10px;
+  right: 0;
+}
+
+.translucid {
+  background-color: rgba(255, 255, 255, 0.6);
+
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  height: 95px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-to-cart-button {
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: white;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 0;
+  padding: 10px 15px;
+  cursor: pointer;
+}

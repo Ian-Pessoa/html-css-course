@@ -1,0 +1,18 @@
+body {
+  height: 3000px;
+}
+
+div {
+  font-family: Arial;
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 100px;
+  padding: 10px 12px;
+
+  position: absolute;
+  top: 15px;
+  right: 15px;
+
+  cursor: pointer;
+}
